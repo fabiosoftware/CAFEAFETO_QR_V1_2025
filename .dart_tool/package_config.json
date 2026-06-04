@@ -62,12 +62,6 @@
       "languageVersion": "3.7"
     },
     {
-      "name": "flutter_web_plugins",
-      "rootUri": "file:///C:/flutter/packages/flutter_web_plugins",
-      "packageUri": "lib/",
-      "languageVersion": "3.7"
-    },
-    {
       "name": "leak_tracker",
       "rootUri": "file:///C:/Users/fabiocoe/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker-10.0.8",
       "packageUri": "lib/",
@@ -116,12 +110,6 @@
       "languageVersion": "3.4"
     },
     {
-      "name": "plugin_platform_interface",
-      "rootUri": "file:///C:/Users/fabiocoe/AppData/Local/Pub/Cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
-    },
-    {
       "name": "sky_engine",
       "rootUri": "file:///C:/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
@@ -164,54 +152,6 @@
       "languageVersion": "3.5"
     },
     {
-      "name": "url_launcher",
-      "rootUri": "file:///C:/Users/fabiocoe/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher-6.3.2",
-      "packageUri": "lib/",
-      "languageVersion": "3.6"
-    },
-    {
-      "name": "url_launcher_android",
-      "rootUri": "file:///C:/Users/fabiocoe/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_android-6.3.20",
-      "packageUri": "lib/",
-      "languageVersion": "3.7"
-    },
-    {
-      "name": "url_launcher_ios",
-      "rootUri": "file:///C:/Users/fabiocoe/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_ios-6.3.4",
-      "packageUri": "lib/",
-      "languageVersion": "3.7"
-    },
-    {
-      "name": "url_launcher_linux",
-      "rootUri": "file:///C:/Users/fabiocoe/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_linux-3.2.1",
-      "packageUri": "lib/",
-      "languageVersion": "3.3"
-    },
-    {
-      "name": "url_launcher_macos",
-      "rootUri": "file:///C:/Users/fabiocoe/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_macos-3.2.3",
-      "packageUri": "lib/",
-      "languageVersion": "3.7"
-    },
-    {
-      "name": "url_launcher_platform_interface",
-      "rootUri": "file:///C:/Users/fabiocoe/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_platform_interface-2.3.2",
-      "packageUri": "lib/",
-      "languageVersion": "3.1"
-    },
-    {
-      "name": "url_launcher_web",
-      "rootUri": "file:///C:/Users/fabiocoe/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_web-2.4.1",
-      "packageUri": "lib/",
-      "languageVersion": "3.6"
-    },
-    {
-      "name": "url_launcher_windows",
-      "rootUri": "file:///C:/Users/fabiocoe/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_windows-3.1.4",
-      "packageUri": "lib/",
-      "languageVersion": "3.4"
-    },
-    {
       "name": "vector_math",
       "rootUri": "file:///C:/Users/fabiocoe/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.1.4",
       "packageUri": "lib/",
@@ -224,19 +164,13 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "web",
-      "rootUri": "file:///C:/Users/fabiocoe/AppData/Local/Pub/Cache/hosted/pub.dev/web-1.1.1",
-      "packageUri": "lib/",
-      "languageVersion": "3.4"
-    },
-    {
       "name": "cafe_menu_qr_temp",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     }
   ],
-  "generated": "2026-06-03T21:21:13.808951Z",
+  "generated": "2026-06-04T20:05:23.161351Z",
   "generator": "pub",
   "generatorVersion": "3.7.2",
   "flutterRoot": "file:///C:/flutter",
